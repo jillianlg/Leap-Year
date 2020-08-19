@@ -7,13 +7,25 @@
   <script src="js/scripts.js"></script>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Title</title>
+  <title>Leap Year Calculator</title>
 </head>
 <body>
   <div class="container">
     <div class="group-std">
-
-      
+      <div class="jumbotron text-center">
+        <h1>Leap Year<br>Calculator</h1>
+      </div>
+      <form id="leap-year">
+        <div class= "form-group">
+          <lable for="yearInput">Enter a year to find out if it is a leap year</lable>
+          <input type=text id="year">
+        </div>
+        <button type="submit" class="btn btn-primary">Sumbit</button>
+        <br>
+      </form>
+      <div id="output">
+        <br><p><strong><span class="input"></span> is <span class="not"></span> a leap year.</strong></p>
+      </div>
     </div>
   </div>
 </body>

@@ -1,12 +1,12 @@
-# _PPOJECT TITLE_
+# _Leap Year Calculator_
 
-#### _BRIEF DESCRIPTION OF APPLICATION, DATE.2020_
+#### _Application calculates leap year based on user input, 08.19.2020_
 
 #### By _**Jillian Gibson and Kolman Soifer**_
 
 ## Description
 
-_This HTML demonstrates the fundamental understanding of...._
+## This HTML demonstrates the fundamental understanding of Arrays and Looping in JavaScript. ##
 
 ## Setup/Installation Requirements
 
